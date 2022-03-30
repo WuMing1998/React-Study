@@ -10,7 +10,7 @@ review react-hooks react-redux react-router-dom@6 redux
 ```
 
 创建 config-overriders.js
-    ***
+
 修改 package.json
 ```tsx
 "scripts": {
